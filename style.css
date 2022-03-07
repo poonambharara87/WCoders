@@ -1,0 +1,9 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.row > h2
+{
+	margin-left: 20%;
+}
